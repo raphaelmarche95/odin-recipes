@@ -1,2 +1,1 @@
-# odin-recipes
-practice html-TOP-Fondation
+This is the first practice of HTML with TOP
